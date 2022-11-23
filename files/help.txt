@@ -1,0 +1,17 @@
+$ HELP -> curl <url>/help
+
+* ARP IMPLEMENTATION USING UDP -> curl <url>/arpr
+
+* CONCURRENT TCP/IP DAY-TIME SERVER -> curl <url>/cotcpc | curl <url>/cotcps
+
+* IMPLEMENTATION OF FILE TRANSFER PROTOCOL -> curl <url>/ftc | curl <url>/fts
+
+* FULL DUPLEX CHAT USING TCP/IP -> curl <url>/fullc | curl <url>/fulls
+
+* HALF DUPLEX CHAT USING TCP/IP -> curl <url>/halfc | curl <url>/halfs
+
+* REMOTE COMMAND EXECUTION USING UDP -> curl <url>/rcc | curl <url>/rcs
+
+* SIMPLE TCP/IP CLIENT SERVER COMMUNICATION -> curl <url>/tcpc | curl <url>/tcps
+
+* UDP ECHO CLIENT SERVER COMMUNICATION -> curl <url>/udpc | curl <url>/udps
